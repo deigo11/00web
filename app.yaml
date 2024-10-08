@@ -1,0 +1,6 @@
+kind: wasmer.io/App.v0
+name: 00web
+owner: auth80
+package: .
+scaling:
+  mode: single_concurrency
